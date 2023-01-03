@@ -6,22 +6,22 @@ The provided dataset comprises data collected from multiple counties in the US. 
 
 The list of successfully completed tasks involved:
 
-• Computing correlations with the target variable
-• Computing feature importance from chosen models
-• Computing outliers
-• Evaluating best performing model
-• Evaluating results using R2 and RMSE metrics
-• Hyperparameter tuning using grid search cross-validation
-• KMeans clustering
-• Linear regression (ordinary least squares, lasso and ridge)
-• Logistic regression
-• Observations of usual values
-• Overfitting check using cross-validation
-• Plotting histograms of all features
-• Plotting results of all models
-• Pre-processing using a machine learning pipeline (involves computing more meaningful features, removing unwanted features, imputing outliers and missing values, scaling data, feature selection, and principle component analysis)
-• Random forest regression
-• Sequential Neural Networks
+- Computing correlations with the target variable
+- Computing feature importance from chosen models
+- Computing outliers
+- Evaluating best performing model
+- Evaluating results using R2 and RMSE metrics
+- Hyperparameter tuning using grid search cross-validation
+- KMeans clustering
+- Linear regression (ordinary least squares, lasso and ridge)
+- Logistic regression
+- Observations of usual values
+- Overfitting check using cross-validation
+- Plotting histograms of all features
+- Plotting results of all models
+- Pre-processing using a machine learning pipeline (involves computing more meaningful features, removing unwanted features, imputing outliers and missing values, scaling data, feature selection, and principle component analysis)
+- Random forest regression
+- Sequential Neural Networks
 
 **Data Dictionary**
 
