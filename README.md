@@ -1,10 +1,10 @@
 # **Predict Cancer Mortality Rates in US Counties**
 
-- The provided dataset comprises data collected from multiple counties in the US. 
-- The regression task for this assessment is to predict cancer mortality rates in "unseen" US counties, given some training data. The training data ('Training_data.csv') comprises various features/predictors related to socio-economic characteristics, amongst other types of information for specific counties in the country. The corresponding target variables for the training set are provided in a separate CSV file ('Training_data_targets.csv').
-- The list of predictors/features available in this data set are described below:
+The provided dataset comprises data collected from multiple counties in the US. The regression task for this assessment is to predict cancer mortality rates in "unseen" US counties, given some training data. The training data ('Training_data.csv') comprises various features/predictors related to socio-economic characteristics, amongst other types of information for specific counties in the country. The corresponding target variables for the training set are provided in a separate CSV file ('Training_data_targets.csv').
 
 **Data Dictionary**
+
+The list of predictors/features available in this data set are described below:
 
 - avgAnnCount: Mean number of reported cases of cancer diagnosed annually
 - avgDeathsPerYear: Mean number of reported mortalities due to cancer
