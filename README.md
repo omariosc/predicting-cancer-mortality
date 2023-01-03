@@ -2,6 +2,27 @@
 
 The provided dataset comprises data collected from multiple counties in the US. The regression task for this assessment is to predict cancer mortality rates in "unseen" US counties, given some training data. The training data ('Training_data.csv') comprises various features/predictors related to socio-economic characteristics, amongst other types of information for specific counties in the country. The corresponding target variables for the training set are provided in a separate CSV file ('Training_data_targets.csv').
 
+**Tasks**
+
+The list of successfully completed tasks involved:
+
+• Computing correlations with the target variable
+• Computing feature importance from chosen models
+• Computing outliers
+• Evaluating best performing model
+• Evaluating results using R2 and RMSE metrics
+• Hyperparameter tuning using grid search cross-validation
+• KMeans clustering
+• Linear regression (ordinary least squares, lasso and ridge)
+• Logistic regression
+• Observations of usual values
+• Overfitting check using cross-validation
+• Plotting histograms of all features
+• Plotting results of all models
+• Pre-processing using a machine learning pipeline (involves computing more meaningful features, removing unwanted features, imputing outliers and missing values, scaling data, feature selection, and principle component analysis)
+• Random forest regression
+• Sequential Neural Networks
+
 **Data Dictionary**
 
 The list of predictors/features available in this data set are described below:
